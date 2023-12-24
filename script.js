@@ -1,4 +1,4 @@
-function firstWord(s) {
+function firstWord(str) {
   // your code here
 	if (str.length === 0) {
         return str;
